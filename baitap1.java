@@ -1,5 +1,5 @@
 class Diem {
-    private double x;
+     private double x;
     private double y;
 
     public Diem(double x, double y) {
